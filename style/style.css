@@ -1,0 +1,27 @@
+.dataGroup {
+  padding-top: 50px;
+}
+
+.artistCard {
+  text-align: center;
+  display: inline-block;
+}
+
+.artistCardContainer {
+  margin: 0 auto;
+  text-align: center;
+}
+
+audio {
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+}
+
+.navbar{
+  position:fixed;
+  width:100%;
+  z-index:1;
+}
