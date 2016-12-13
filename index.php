@@ -267,6 +267,9 @@ if ($artistSpotifyName != null) { ?>
 
           <div id="lastFm" class="dataGroup">
             <h3>Artist Biography [Last.fm]</h3>
+            <h5>
+              <?php echo $lastFmContent->artist->name ?>
+            </h5>
             <p>
               <?php echo $lastFmContent->artist->bio->summary ?>
             </p>
