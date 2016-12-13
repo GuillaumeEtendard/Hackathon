@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Hackaton</title>
+  <title>Hackathon</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css"
   integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
 
@@ -15,7 +15,7 @@
     <nav class="navbar navbar-light bg-faded">
       <ul class="nav navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Hackaton <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="#">Hackathon<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#form">Form Artist</a>
